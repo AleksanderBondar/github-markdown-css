@@ -16,7 +16,7 @@ Download [manually](https://raw.githubusercontent.com/sindresorhus/github-markdo
 $ npm install github-markdown-css
 ```
 
-## Usage
+## Usage test
 
 Import the `github-markdown.css` file and add a `markdown-body` class to the container of your rendered Markdown and set a width for it. GitHub uses `980px` width and `45px` padding, and `15px` padding for mobile.
 
